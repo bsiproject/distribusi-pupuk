@@ -1,6 +1,7 @@
 # Sistem Informasi Pendistribusian Pupuk Kelapa Sawit
 
 ## Menu
+![Menu](https://raw.githubusercontent.com/bsiproject/distribusi-pupuk/main/gambar/bg-home.png)
 ![Menu](gambar/1-menu.png)
 
 ## Checkout & Pembayaran
