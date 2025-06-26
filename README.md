@@ -5,7 +5,7 @@ Sistem Informasi Pendistribusian Pupuk Kelapa Sawit
 
 <!-- Gambar tambahan yang masih dikomentari -->
 <!--
-<img src="images/bg-home.png" alt="deskripsi" width="1200">
+<img width="1200" alt="menu" src="https://github.com/bsiproject/distribusi-pupuk/blob/main/images/bg-login.png">
 
 -->
 
