@@ -1,8 +1,10 @@
 # Sistem Informasi Pendistribusian Pupuk Kelapa Sawit
 
-## Tampilan Utama
-
-![Home Background](images/bg-home.PNG)  
+## Tampilan Login
 ![Login Background](images/bg-login.PNG)  
-![Option Background](images/bg-option.PNG)
 
+## Tampilan Utama
+![Home Background](images/bg-home.PNG)  
+
+## Tampilan Menu
+![Option Background](images/bg-option.PNG)
