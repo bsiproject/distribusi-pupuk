@@ -2,7 +2,7 @@
 
 ## Tampilan Utama
 
-![Home Background](gambar/bg-home.png)  
-![Login Background](gambar/bg-login.png)  
-![Option Background](gambar/bg-option.png)
+![Home Background](images/bg-home.png)  
+![Login Background](images/bg-login.png)  
+![Option Background](images/bg-option.png)
 
