@@ -5,8 +5,8 @@ Sistem Informasi Pendistribusian Pupuk Kelapa Sawit
 
 <!-- Gambar tambahan yang masih dikomentari -->
 <!--
-<img width="1200" alt="1.2-co" src="https://raw.githubusercontent.com/bsiproject/distribusi-pupuk/main/images/bg-login.png">
-<img width="1200" alt="1.3-payment" src="https://raw.githubusercontent.com/bsiproject/distribusi-pupuk/main/images/bg-home.png">
+<img src="images/bg-home.png" alt="deskripsi" width="1200">
+
 -->
 
 <h2>Admin Panel</h2>
